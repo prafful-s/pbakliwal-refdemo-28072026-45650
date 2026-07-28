@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/language-masters/en:/",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/language-masters/en/:/en/",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/language-masters/fr/:/fr/",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/language-masters/fr:/fr",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/language-masters/es/:/es/",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/language-masters/es:/es",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/language-masters/ja/:/ja/",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/language-masters/ja:/ja",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/language-masters/de/:/de/",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/language-masters/de:/de",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/configuration:/.helix/config.json",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/metadata:/metadata.json",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/redirects:/redirects.json",
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/pbakliwal/6a68368db56c7d8e6a1ddc88/",
+    "/content/dam/pbakliwal/6a68368db56c7d8e6a1ddc88/"
   ]
 }
